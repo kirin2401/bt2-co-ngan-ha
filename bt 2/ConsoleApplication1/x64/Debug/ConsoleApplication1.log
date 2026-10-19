@@ -1,0 +1,3 @@
+﻿  caidat.cpp
+E:\bt 2\ConsoleApplication1\caidat.cpp(116,1): warning C4715: 'demsochiahet3va5': not all control paths return a value
+  ConsoleApplication1.vcxproj -> E:\bt 2\x64\Debug\ConsoleApplication1.exe
